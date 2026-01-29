@@ -10,7 +10,7 @@
 
 #Maybe some improvement could be made in losing positions. Currently it picks a random pile to remove one object from, but it could maybe pick the pile more cleverly or consider more than just maximising the number of objects left, such as trying to disguise when it knows it has a losing position.
 
-#The bot will automatically ignore heaps of size 0 if you input them.
+#The bot will automatically remove heaps of size 0 if you input them.
 
 #To input a position where there are n heaps of size x_1, x_2, ... , x_n, please enter the numbers separated by a space, i.e. "x_1 x_2 ... x_n"
 
@@ -55,4 +55,5 @@ main()
 
 #stop invalidinputs
 #change message at end of game
+
 #add comments to functions
