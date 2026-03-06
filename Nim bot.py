@@ -56,7 +56,7 @@ def main():
 
 main()
 
-#to do:
+#To do:
+#Currently it talks to you as if you are playing one constant game but actually it is a simple program that takes a position and outputs the position after the optimal move. 
+#To turn it into an actual game it would need to stop invalid inputs and change message at end of game.
 
-#stop invalid inputs
-#change message at end of game
